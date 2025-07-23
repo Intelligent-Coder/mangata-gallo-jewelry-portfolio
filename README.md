@@ -31,31 +31,6 @@ portfolio/
 1. Open `portfolio/src/index.html` in your browser.
 2. Make sure the `img` and `logos` folders are present for images to display correctly.
 
-## How to Push to GitHub
-1. Initialize git (if not already):
-   ```sh
-   git init
-   ```
-2. Add all files:
-   ```sh
-   git add .
-   ```
-3. Commit your changes:
-   ```sh
-   git commit -m "Initial commit: Mangata & Gallo Jewelry Portfolio"
-   ```
-4. Create a new repository on GitHub.
-5. Add the remote:
-   ```sh
-   git remote add origin https://github.com/your-username/your-repo-name.git
-   ```
-6. Push to GitHub:
-   ```sh
-   git push -u origin master
-   ```
-
-Replace `your-username` and `your-repo-name` with your actual GitHub username and desired repository name.
-
 ---
 
 Created: July 2025
